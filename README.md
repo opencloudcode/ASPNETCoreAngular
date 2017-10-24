@@ -1,3 +1,9 @@
+# Update:  Angular 2 is now available in Visual Studio 2017. 
+
+
+
+
+
 # ASPNETCore Angular 
 
 
